@@ -68,7 +68,7 @@ There are endless options to explore to make the game more interactive and more 
 
 
 ## Interview Recording URL Link
-file:///C:/Users/Abdul/Documents/Zoom/2022-03-22%2021.27.00%20MEEEE%2092813455737/zoom_1.mp4
+https://drive.google.com/file/d/1LJ2EPRChKhVSelOIBeaYUM-MdA8D42UM/view?usp=sharing
 
 
 
