@@ -74,7 +74,7 @@ https://drive.google.com/file/d/1LJ2EPRChKhVSelOIBeaYUM-MdA8D42UM/view?usp=shari
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Abdul Rauf Abdul Karim]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
