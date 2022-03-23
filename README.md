@@ -4,7 +4,7 @@
 
 Submitted by: **Abdul Rauf Abdul Karim**
 
-Time spent: **12** hours spent in total
+Time spent: **15** hours spent in total
 
 Link to code of project: (https://glitch.com/edit/#!/square-lacy-clover)
 Link to Live Site: https://square-lacy-clover.glitch.me
